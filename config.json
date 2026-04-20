@@ -4,5 +4,9 @@
   "random_state": 99,
   "batch_size": 8,
   "epochs": 4,
-  "max_length": 128
+  "max_length": 128,
+  "warmup_steps": 50,
+  "weight_decay": 0.01,
+  "num_categories": 5,
+  "repo_name": "Support_ticket_classifier"
 }

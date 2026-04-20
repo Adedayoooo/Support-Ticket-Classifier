@@ -1,0 +1,13 @@
+__pycache__/
+.env
+
+*.safetensors
+
+*.csv
+*.txt.gz
+*.zip
+data/
+datasets/
+HF_TOKEN.txt
+models/
+.pytest_cache/
